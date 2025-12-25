@@ -16,15 +16,8 @@ Print the value of d with the label "d:".
 
 _PROGRAM:_
 
-a = (0 == True)
-b = (False == False)
-c = (True + True)
-d = (False + 9)
+<img width="230" height="226" alt="image" src="https://github.com/user-attachments/assets/560a882e-1652-48c4-88ad-a94f0a583f93" />
 
-print("a is", a)
-print("b is", b)
-print("c:", c)
-print("d:", d)
 
 _OUTPUT:_
 
@@ -45,8 +38,8 @@ Print the character 'a'.
 
 _PROGRAM:_
 
-print('T')
-print('a')
+<img width="111" height="56" alt="image" src="https://github.com/user-attachments/assets/c0986e9a-a635-449b-b7c6-13e3f6ed123f" />
+
 
 _OUTPUT:_
 
@@ -71,12 +64,8 @@ Print the imaginary part of x using x.imag.
 
 _PROGRAM:_
 
-a=int(input())
-b=int(input())
-x=complex(a,b)
-print(x)
-print(x.real)
-print(x.imag)
+<img width="159" height="153" alt="image" src="https://github.com/user-attachments/assets/ea257494-6818-425e-bdfe-227675bf27f0" />
+
 
 _OUTPUT:_
 
@@ -98,8 +87,8 @@ Print the value stored in the variable.
 
 _PROGRAM:_
 
-men_stepped_on_the_moon= input()
-print  (men_stepped_on_the_moon)
+<img width="339" height="54" alt="image" src="https://github.com/user-attachments/assets/d3eaea92-c0cd-4ef6-b6b0-a9ec82975020" />
+
 
 _OUTPUT:_
 
@@ -124,11 +113,8 @@ End the program.
 
 _PROGRAM:_
 
-a = int(input())
-if a % 2 == 0:
-    print("EVEN")
-else:
-    print("ODD")
+<img width="205" height="132" alt="image" src="https://github.com/user-attachments/assets/1f7a03f5-a48c-40e5-926a-55d0d17abb84" />
+
 
 _OUTPUT:_
 
