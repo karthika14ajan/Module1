@@ -27,6 +27,7 @@ print("c:", c)
 print("d:", d)
 
 _OUTPUT:_
+
 <img width="484" height="254" alt="image" src="https://github.com/user-attachments/assets/17505b95-9744-478d-9aa7-cdc641d58b00" />
 
 _RESULT:_
@@ -78,6 +79,7 @@ print(x.real)
 print(x.imag)
 
 _OUTPUT:_
+
 <img width="924" height="730" alt="image" src="https://github.com/user-attachments/assets/59781667-7493-4edf-a864-7480f4eba6f6" />
 
 _RESULT:_
@@ -100,6 +102,7 @@ men_stepped_on_the_moon= input()
 print  (men_stepped_on_the_moon)
 
 _OUTPUT:_
+
 <img width="1159" height="235" alt="image" src="https://github.com/user-attachments/assets/6d6aa633-4dcd-4d06-9899-dae73c5f0b25" />
 
 _RESULT:_
@@ -128,6 +131,7 @@ else:
     print("ODD")
 
 _OUTPUT:_
+
 <img width="721" height="208" alt="image" src="https://github.com/user-attachments/assets/a2faa822-4b1c-4a5e-9ecb-9f54ed01a07c" />
 
 _RESULT:_
