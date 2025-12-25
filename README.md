@@ -48,6 +48,7 @@ print('T')
 print('a')
 
 _OUTPUT:_
+
 <img width="289" height="174" alt="image" src="https://github.com/user-attachments/assets/0547d10e-eadf-47c1-8299-52fccad8a1de" />
 
 _RESULT:_
