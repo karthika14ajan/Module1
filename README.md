@@ -1,4 +1,4 @@
-*Ex 1:Datatypes-Boolean Expression Evaluation in Python*
+# *Ex 1:Datatypes-Boolean Expression Evaluation in Python*
 
 _AIM:_
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False.
@@ -26,7 +26,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Datatypes-Character Literal in Python*
+# *Datatypes-Character Literal in Python*
 
 _AIM:_
 To write a Python program that prints the characters 'T' and 'a' using character literals.
@@ -48,7 +48,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*🧮 Datatypes-Complex Number Creation in Python*
+# *🧮 Datatypes-Complex Number Creation in Python*
 
 _AIM:_
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -74,7 +74,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Datatypes-Read and Print a String in Python*
+# *Datatypes-Read and Print a String in Python*
 
 _AIM:_
 To write a Python program to read a string from the user and then print it.
@@ -97,7 +97,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Conditional Statements in Python: Even or Odd Checker*
+# *Conditional Statements in Python: Even or Odd Checker*
 
 _AIM:_
 To write a Python program to check whether the given number is even or odd using if...else statements.
